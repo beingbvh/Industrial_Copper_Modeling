@@ -1,5 +1,8 @@
 # **Industrial Copper Modeling**
 
+[LinkedIN]
+[click here for demo video](https://youtu.be/W_h8j8591vk)
+
 ## **Problem Statement:**
   - The copper industry deals with less complex data related to sales and pricing.
 However, this data may suffer from issues such as skewness and noisy data, which
