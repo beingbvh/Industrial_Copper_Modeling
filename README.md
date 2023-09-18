@@ -1,6 +1,7 @@
 # **Industrial Copper Modeling**
 
-[LinkedIN]
+[LinkedIN](https://www.linkedin.com/feed/update/urn:li:share:7109391802012495872/)
+
 [click here for demo video](https://youtu.be/W_h8j8591vk)
 
 ## **Problem Statement:**
